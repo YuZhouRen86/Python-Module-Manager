@@ -55,7 +55,7 @@ FAQ  常见问题
 **问：遇到“TypeError: wrap_socket() got an unexpected keyword argument 'ciphers'”的报错，该如何解决？**
 
 **A**: Python 3.1 is up to pip 6.0.3, which does not support the HTTPS protocol. Switching the index to "[HTTP] Aliyun (PYPI)" will solve the problem.  
-**答**：Python 3.1 最高兼容 pip 6.0.3 ，这一版本的 pip 不支持 HTTPS 协议。切换索引至“[HTTP]阿里云PYPI”即可解决。
+**答**：Python 3.1 最高兼容 pip 6.0.3 ，这一版本的 pip 不支持 HTTPS 协议。切换索引至“[HTTP]阿里云（PYPI）”即可解决。
 
 Donations  捐赠
 =========
